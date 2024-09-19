@@ -22,8 +22,8 @@ SentiBot is an innovative chatbot that combines the power of Llama 2, a state-of
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/sentibot.git
-   cd sentibot
+   git clone https://github.com/prahants/Llama-Chatbot-with-Sentiment-Analysis-lntegration.git
+   cd Llama-Chatbot-with-Sentiment-Analysis-lntegration
    ```
 
 2. Install the required packages:
@@ -38,7 +38,7 @@ SentiBot is an innovative chatbot that combines the power of Llama 2, a state-of
 
 4. Run the application:
    ```
-   python app.py
+   enhanced-sentiment-chatbot.py
    ```
 
 ## Usage
@@ -49,7 +49,7 @@ SentiBot is an innovative chatbot that combines the power of Llama 2, a state-of
 
 ## Code Structure
 
-- `app.py`: Main application file containing the chatbot logic and Gradio interface.
+- `enhanced-sentiment-chatbot.py`: Main application file containing the chatbot logic and Gradio interface.
 - `qa_dataset.csv`: CSV file storing question-answer pairs.
 - `requirements.txt`: List of Python dependencies.
 
@@ -61,7 +61,7 @@ SentiBot is an innovative chatbot that combines the power of Llama 2, a state-of
 
 ## Contributors
 
-- [Your Name]
+- Prashant Kumar
 
 ## License
 
